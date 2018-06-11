@@ -1,0 +1,20 @@
+section{
+  display: flex;
+}
+section .maior{
+  width: 50%;
+}
+
+section > .media{
+  width: 30%;
+}
+
+section > .menor{
+  width: 20%;
+}
+
+.noticia > .img{
+  color: red;
+  font-size: 12px;
+  margin: 0
+}
